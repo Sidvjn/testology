@@ -1,4 +1,2 @@
 0.0.0.0 graph.facebook.com
-0.0.0.0 www.sceneturbo.com
 0.0.0.0 graph.instagram.com
-0.0.0.0 sceneturbo.com
